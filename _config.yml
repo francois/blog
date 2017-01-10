@@ -17,7 +17,7 @@ title: "A Single Programmer's Blog"
 email: "francois@teksol.info"
 description: > # this means to ignore newlines until "baseurl:"
   The life of a programmer working with different languages: Ruby, Ember.js, React, Shell, PostgreSQL, SQL.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://blog.teksol.info/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fbeausoleil
 github_username:  francois
