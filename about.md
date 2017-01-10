@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img style="float:right;margin-left:10px;border:2px white solid;" alt="A picture of François Beausoleil with his smile, short-cropped hair and glasses" src="/assets/images/francois-500.jpg" height="400">
+<img style="float:right;margin-left:10px;border:2px white solid;" alt="A picture of François Beausoleil with his smile, short-cropped hair and glasses" src="{{ site.github.url }}/assets/images/francois-500.jpg" height="400">
 
 My name is François Beausoleil, and I live in Sherbrooke, Québec, Canada. I was born in 1973, and that makes me more than 40 years old !
 
